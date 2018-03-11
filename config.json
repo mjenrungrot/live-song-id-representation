@@ -1,0 +1,6 @@
+{
+  "AUDIO_DIR": "/home/mirlab/Data/SoftLinks/",
+  "DATA_OUTPUT_DIR": "/data/mjenrungrot/live-song-output/",
+  "artists": ["taylorswift", "tompetty", "kanyewest", "maroon5", "deathcabforcutie", "onedirection", "chromeo", "bigk.r.i.t", "t.i", "foofighters"],
+  "MAX_PITCH_SHIFT": 4
+}
